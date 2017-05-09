@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="y" type="double" />
+      <attribute id="1" title="x" type="double" />
+      <attribute id="2" title="weight" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="holden" label="holden">
+        <attvalues>
+          <attvalue for="0" value="0.255103069435" />
+          <attvalue for="1" value="0.937996068826" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="crazy" label="crazy">
+        <attvalues>
+          <attvalue for="0" value="0.784137449017" />
+          <attvalue for="1" value="0.0929934473584" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="condescendingcunthour" label="condescendingcunthour">
+        <attvalues>
+          <attvalue for="0" value="0.403731493628" />
+          <attvalue for="1" value="0.994145289334" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="kbridal" label="kbridal">
+        <attvalues>
+          <attvalue for="0" value="0.897696277834" />
+          <attvalue for="1" value="0.202759879268" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="endomondo" label="endomondo">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="0.500973219187" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="driving" label="driving">
+        <attvalues>
+          <attvalue for="0" value="0.049306291881" />
+          <attvalue for="1" value="0.292394258835" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="allinallseason" label="allinallseason">
+        <attvalues>
+          <attvalue for="0" value="0.12971660639" />
+          <attvalue for="1" value="0.840579219624" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="drunktweets" label="drunktweets">
+        <attvalues>
+          <attvalue for="0" value="0.47360299258" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="leagueone" label="leagueone">
+        <attvalues>
+          <attvalue for="0" value="0.757118706594" />
+          <attvalue for="1" value="0.921818001302" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="goldcoast" label="goldcoast">
+        <attvalues>
+          <attvalue for="0" value="0.121669455156" />
+          <attvalue for="1" value="0.173805312843" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="melbourne" label="melbourne">
+        <attvalues>
+          <attvalue for="0" value="0.565586122341" />
+          <attvalue for="1" value="0.99605597322" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="owls" label="owls">
+        <attvalues>
+          <attvalue for="0" value="0.902911694344" />
+          <attvalue for="1" value="0.787756477921" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="thingsthatyoushouldknow" label="thingsthatyoushouldknow">
+        <attvalues>
+          <attvalue for="0" value="0.834481206876" />
+          <attvalue for="1" value="0.874010035083" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="code" label="code">
+        <attvalues>
+          <attvalue for="0" value="0.640475214429" />
+          <attvalue for="1" value="0.0214611206268" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="juv" label="juv">
+        <attvalues>
+          <attvalue for="0" value="0.969305801439" />
+          <attvalue for="1" value="0.343070376489" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="australia" label="australia">
+        <attvalues>
+          <attvalue for="0" value="0.227189101707" />
+          <attvalue for="1" value="0.0861540470265" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="queensland" label="queensland">
+        <attvalues>
+          <attvalue for="0" value="0.233936655508" />
+          <attvalue for="1" value="0.16668507465" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="perth" label="perth">
+        <attvalues>
+          <attvalue for="0" value="0.0431338053418" />
+          <attvalue for="1" value="0.705254550897" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="my" label="my">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.543339117127" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="barmyarmy" label="barmyarmy">
+        <attvalues>
+          <attvalue for="0" value="0.948078185203" />
+          <attvalue for="1" value="0.690961454239" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="southport" label="southport">
+        <attvalues>
+          <attvalue for="0" value="0.13216371656" />
+          <attvalue for="1" value="0.283023732294" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="driving" target="queensland" weight="1" />
+      <edge id="1" source="driving" target="australia" weight="1" />
+      <edge id="2" source="driving" target="goldcoast" weight="1" />
+      <edge id="3" source="driving" target="southport" weight="1" />
+      <edge id="4" source="leagueone" target="owls" weight="1" />
+      <edge id="5" source="leagueone" target="barmyarmy" weight="1" />
+      <edge id="6" source="goldcoast" target="queensland" weight="1" />
+      <edge id="7" source="goldcoast" target="australia" weight="1" />
+      <edge id="8" source="goldcoast" target="southport" weight="1" />
+      <edge id="9" source="owls" target="barmyarmy" weight="1" />
+      <edge id="10" source="australia" target="queensland" weight="1" />
+      <edge id="11" source="australia" target="southport" weight="1" />
+      <edge id="12" source="queensland" target="southport" weight="1" />
+    </edges>
+  </graph>
+</gexf>
