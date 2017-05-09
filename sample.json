@@ -2,21 +2,21 @@
   "nodes": [
     {
       "id": 0,
-      "label": "A node",
+      "label": "1",
       "x": 2.5,
       "y": 2.5,
       "size": 3
     },
     {
       "id": 1,
-      "label": "Another node",
+      "label": "2",
       "x": 3,
       "y": 1,
       "size": 2
     },
     {
       "id": 2,
-      "label": "And a last one",
+      "label": "3",
       "x": 1,
       "y": 3,
       "size": 1
