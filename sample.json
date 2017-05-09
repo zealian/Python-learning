@@ -24,17 +24,14 @@
   ],
   "edges": [
     {
-
       "source": "n0",
       "target": "n1"
     },
     {
-
       "source": "n1",
       "target": "n2"
     },
     {
-
       "source": "n2",
       "target": "n0"
     }
